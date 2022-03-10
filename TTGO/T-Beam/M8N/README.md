@@ -5,6 +5,8 @@ These are reference models of the TTGO T-Beams m8n for you to help design your o
 Provided is the STL files, the STEP file for various CAD programs, and the raw Fudion 360 file
 (where it was deisgned in)
 
+Creative Commons Attribution 4.0 International License (CC BY 4.0) This work is licensed under the Creative Commons Attribution 4.0 International License.
+
 
 
 
