@@ -2,7 +2,7 @@
 # K-TAC Rugged T-Beam Enclosure 1
 
 
-K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the meshtastic t beam m8n
+K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the meshtastic t beam m8n. It is designed to be a tough water reistant enclosure for rough enviroments. 
 
 
 
@@ -88,3 +88,7 @@ shorturl.at/bdtIP
 4x M3x5 Round head cap machine screws
 
 4x M3x10 Round head cap machine screws
+
+## CNC Details
+
+If you do not own a CNC, you can 
