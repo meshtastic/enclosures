@@ -77,7 +77,9 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 8x M3 brass threaded inserts 
 shorturl.at/bdtIP
 
-Screws (It’s much cheaper to buy a screw kit online, stainless steel is highly recommended) 
+## Screws 
+
+(It’s much cheaper to buy a screw kit online, stainless steel is highly recommended) 
 
 6x M3x12 Socket Head Cap machine screws
 
