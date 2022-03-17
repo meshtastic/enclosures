@@ -2,10 +2,11 @@
 # TTGO T-Beam m8n Reference Model
 
 These are reference models of the TTGO T-Beams m8n for you to help design your own enclosures!
-Provided is the .STL files, the .STEP file for various CAD programs, and the raw Fudion 360 file
-(where it was deisgned in)
+Provided is the .STL files, the .STEP file for various CAD programs, and the raw Fusion 360 file
+(where it was designed in)
 
-If you prefer a different file format, most CAD softwares will allow you to expoer the .STEP file to a variety of formats
+If you prefer a different file format, most CAD softwares will allow you to export the .STEP file to a variety of formats
+
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0) This work is licensed under the Creative Commons Attribution 4.0 International License.
 
@@ -19,10 +20,11 @@ Creative Commons Attribution 4.0 International License (CC BY 4.0) This work is 
 
 ## NOTICE
 
-These are not PCB component level measurments. It was made via manual mesaurments for prominent 
-components that may influence the enclosure deisgn. The accuracy is within reliable margins
-for enclosure design, however it is not intended to serve as a pcb level accurate elenctornics
+These are not PCB component level measurements. It was made via manual measurements for prominent 
+components that may influence the enclosure design. The accuracy is within reliable margins
+for enclosure design, however it is not intended to serve as a pcb level accurate electronics
 reference
+
 
 
 ## Credits
