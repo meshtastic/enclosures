@@ -16,9 +16,7 @@ K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactic
 3. The water resistance should be treated as a “Safety” feature! Although the enclosure performed flawlessly in our testing in extremely wet environments, the effectiveness of the seal is dependent on how the enclosure is assembled and the assemblers experience. If you do not have experience waterproofing enclosures, do not attempt to submerge or wet this enclosure. If you are confident in the seal, operate at your own ris
 
 
-## Parts & Tools
-
-Tools:
+## Tools
 
 3D Printer (Duh)
 
@@ -29,7 +27,7 @@ Wire Snips
 Soldering Iron (And basic soldering skills)
 
 
-Electronics:
+## Electronics
 
 1x TTGO T-BEAM M8N
 shorturl.at/mxFZ6
@@ -58,7 +56,7 @@ shorturl.at/klB26
 
 1x Roll of thicker gauge silicone wire for battery (Depends on what your cell specs are) 
 
-Material:
+## Material
 
 Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
