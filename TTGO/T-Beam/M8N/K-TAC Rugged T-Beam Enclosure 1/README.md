@@ -40,6 +40,7 @@ Soldering Iron (And basic soldering skills)
 ## Electronics
 
 1x TTGO T-BEAM M8N
+
 shorturl.at/mxFZ6
 
 1x OLED Display
