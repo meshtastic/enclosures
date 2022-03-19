@@ -1,9 +1,9 @@
 # K-TAC Rugged T-Beam Enclosure 1
 
 
-K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is deisgned to help bring meshtastic to the roughest outdoor conditions in a small man portable package. With one of the primary design goals inculding a large battery compartment, RTE-1 is compatible with a large enough battery for days of coninuous operation without 
+K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is deisgned to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially availble waterproof components to offer a weatherproof and completley sealed body, protecting the elentorncis from the elements.
 
-Devleoped under the K-TAC ecosystem by Canine Rocket Technologies
+Deisgned & Devleoped under the K-TAC ecosystem by Canine Rocket Technologies
 
 ## Video
 
@@ -40,8 +40,6 @@ Soldering Iron (And basic soldering skills)
 ## Electronics
 
 1x TTGO T-BEAM M8N
-
-shorturl.at/mxFZ6
 
 1x OLED Display
 
@@ -111,5 +109,8 @@ If you do not own a CNC, you can
 
 ## Non CNC Version
 
-Don't own a CNC? No worries! We deisgned a version that utilizes the armoured elemnts to be simply printed. For the clear acrulic or polycarboante screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates varry in scale by printers and are not reliable neough.
+Don't own a CNC? No worries! We deisgned a version that utilizes the armoured elemnts to be simply printed. For the clear acrulic or polycarboante screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates varry in scale by printers and are not reliable enough.
 
+## Tactical Radio Pouch
+
+Patterns, sewing details, and instructions coming soon!
