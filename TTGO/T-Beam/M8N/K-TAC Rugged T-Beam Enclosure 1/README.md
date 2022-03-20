@@ -1,5 +1,5 @@
 # K-TAC Rugged T-Beam Enclosure 1
-
+https://user-images.githubusercontent.com/101295892/159145278-55956052-56e1-44ea-8af0-de8c5556c96b.png
 
 K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is deisgned to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially availble waterproof components to offer a weatherproof and completley sealed body, protecting the elentorncis from the elements.
 
