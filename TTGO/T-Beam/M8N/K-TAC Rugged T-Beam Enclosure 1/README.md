@@ -43,14 +43,11 @@ Soldering Iron (And basic soldering skills)
 
 1x OLED Display
 
-2x 12 mm waterproof push button
-shorturl.at/asKNV
+2x 12 mm stainlee steel waterproof push button (generic, make sure it's momentary)
 
 1x Upgraded Antenna (stock antenna could work but not recommended)
-shorturl.at/grxR7
 
 1x 25mm GPS Antenna (stock antenna could work but not recommended)
-shorturl.at/wDX67
 
 2x Li Ion 21700 (Optional, other li ion cells pouch or even 18650s could work, but who dosen’t want to cram the biggest cell this enclosure will take right?)
 https://www.18650batterystore.com/collections/21700-batteries/products/samsung-50e
@@ -63,10 +60,8 @@ https://www.adafruit.com/product/3164
 1x Roll of thicker gauge silicone wire for battery (Depends on what your cell specs are) 
 
 1x Waterproof Panel Mount Micro USB
-shorturl.at/xMNT5
 
-1x micro usb male breakout 
-shorturl.at/klB26
+1x micro usb male breakout (4 pin, 5 pin could also work, just ignore the extra connection)
 
 
 
@@ -89,7 +84,6 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 1x 1 or 2 mm carbon fiber sheet (Optional but recommended) 
 
 8x M3 brass threaded inserts 
-shorturl.at/bdtIP
 
 ## Screws 
 
@@ -103,14 +97,14 @@ shorturl.at/bdtIP
 
 4x M3x10 Round head cap machine screws
 
-## CNC Details
-
-If you do not own a CNC, you can 
-
 ## Non CNC Version
 
 Don't own a CNC? No worries! We deisgned a version that utilizes the armoured elemnts to be simply printed. For the clear acrulic or polycarboante screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates varry in scale by printers and are not reliable enough.
 
+FILES COMING SOON
+
 ## Tactical Radio Pouch
+
+Coming Soon!
 
 Patterns, sewing details, and instructions coming soon!
