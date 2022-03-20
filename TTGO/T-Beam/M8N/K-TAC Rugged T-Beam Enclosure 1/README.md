@@ -2,7 +2,10 @@
 
 ![K-TAC RTE 1 wireframe](https://user-images.githubusercontent.com/101295892/159145646-d8206180-4656-4461-9e1e-7b50228de056.png)
 
-K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is designed to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially available waterproof components to offer a weatherproof and completely sealed body, protecting the electronics from the elements.
+K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is designed to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially available waterproof components to offer a weatherproof and completely sealed body, protecting the electronics from the elements. Though not a beginner friendly project, RTE-1 is relatively a simple construction. The body is 3D printed with cnc cutout "armor" panels for added protection and strength. However the CNC parts are not necessary and can be substituted with printed parts. The CNCed parts are relatively simple, with a drill press and good saw (and skill) it can be cut out by hand
+
+
+
 
 Deisgned & Devleoped under the K-TAC ecosystem by Canine Rocket Technologies
 
@@ -16,19 +19,20 @@ tutorial and showcase video coming soon!
 ## IMPORTANT NOTICE
 
 
-1. This is not a beginner friendly enclosure! If this is your first enclosure, we highly do not recommend if you would like to check out more beginner friendly enclosures at: https://github.com/meshtastic/enclosures This project requires a intermediate knowledge in electronics, itermediate skill level in soldering, 3D printing, and CNC machining
+1. This is not a beginner friendly enclosure! If this is your first enclosure, we highly do not recommend if you would like to check out more beginner friendly enclosures at: https://github.com/meshtastic/enclosures This project requires a intermediate knowledge in electronics, intermediate skill level in soldering, 3D printing, and CNC machining
 
 2. Do not proceed with this project until you have gotten Meshtastic working on the t-beam first! This enclosure requires a lot of semi-permanent modifications that will make debugging very tricky.
 
-3. The water resistance should be treated as a “Safety” feature! Although the enclosure performed flawlessly in our testing in extremely wet environments, the effectiveness of the seal is dependent on how the enclosure is assembled and the assemblers experience. If you do not have experience waterproofing enclosures, do not attempt to submerge or wet this enclosure. If you are confident in the seal, operate at your own ris
+3. The water resistance should be treated as a “Safety” feature! Although the enclosure performed flawlessly in our testing in extremely wet environments, the effectiveness of the seal is dependent on how the enclosure is assembled and the assembler's experience. If you do not have experience waterproofing enclosures, do not attempt to submerge or wet this enclosure. If you are confident in the seal, operate at your own ris
 
-4. THIS CAN CAUSE PERMANENT DAMAGE TO YOUR T-BEAM IF YOU. Steps such as the rewiring of the USB 
+4. THIS CAN CAUSE PERMANENT DAMAGE TO YOUR T-BEAM! Steps such as the rewiring of the USB or desoldering the battery tray can damage your T-Beam if done improperly. It is highly recommended to gain experience with other projects first before proceeding with this one
+
 
 
 
 ## Tools
 
-3D Printer (Duh)
+3D Printer (The body is printed)
 
 CNC Mill (See below if you do not own one)
 
@@ -100,7 +104,7 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 ## Non CNC Version
 
-Don't own a CNC? No worries! We deisgned a version that utilizes the armoured elemnts to be simply printed. For the clear acrulic or polycarboante screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates varry in scale by printers and are not reliable enough.
+Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed. For the clear acrylic or polycarbonate screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates vary in scale by printers and are not reliable enough.
 
 FILES COMING SOON
 
