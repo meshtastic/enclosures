@@ -1,6 +1,6 @@
 
 # TTGO T-Beam m8n
-Here are all the recources regarding reference files and enclosure designs for the TTGO T-Beam m8n
+All the resources regarding reference files and enclosure designs for the TTGO T-Beam m8n
 
 
 ## Licensing
