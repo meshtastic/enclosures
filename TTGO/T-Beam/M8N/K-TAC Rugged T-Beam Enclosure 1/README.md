@@ -82,8 +82,6 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 1x Roll of Painters Tape
 
-1x Roll of 
-
 1x 2.7 mm polycarbonate sheet (Acrylic could also work, for our U.S. folks the generic small squares of lexan sheets sold at Home Depot are roughly 2.7mm and should work)
 
 1x 1 or 2 mm carbon fiber sheet (Optional but recommended) 
