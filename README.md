@@ -1,3 +1,5 @@
+[![CLA assistant](https://cla-assistant.io/readme/badge/meshtastic/enclosures)](https://cla-assistant.io/meshtastic/enclosures)
+
 # enclosures
 Enclosures for Meshtastic devices.
 
