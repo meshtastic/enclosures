@@ -27,8 +27,16 @@ tutorial and showcase video coming soon!
 
 4. THIS CAN CAUSE PERMANENT DAMAGE TO YOUR T-BEAM! Steps such as the rewiring of the USB or desoldering the battery tray can damage your T-Beam if done improperly. It is highly recommended to gain experience with other projects first before proceeding with this one
 
+## 3D Printing Info
+Inculded are 2 versions, one for FDM and one for SLA. The only difference is how the screws mount, for the FDM version the holes ar elarger to accomidate threaded heat set inserts, whereas the SLA version has 3 mm holes intended to be tapped straight into the resin print itself. For the SLA version all the files are identical except the center frame. Ensure you are printing the correct center frame file! For full rugged perofmance, FDM pritning is favored over resin printing, hwoever for more moderate usage resin prints should also work (Indoor, casual hiking, urban enviroemtn, ect.).
 
+FDM Reccomended Settings:
 
+100% infill
+
+0.2 mm layer height minimun
+
+PETG, Polycarboante, or ABS
 
 ## Tools
 
@@ -39,6 +47,8 @@ CNC Mill (See below if you do not own one)
 Wire Snips
 
 Soldering Iron (And basic soldering skills)
+
+M3 Taps (Only needed for resin print version)
 
 
 
@@ -86,7 +96,7 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 1x 1 or 2 mm carbon fiber sheet (Optional but recommended) 
 
-8x M3 brass threaded inserts 
+8x M3 brass threaded inserts (Not needed for the SLA resin printed version)
 
 ## Screws 
 
@@ -102,9 +112,10 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 ## Non CNC Version
 
-Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed. For the clear acrylic or polycarbonate screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates vary in scale by printers and are not reliable enough.
+Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed.
+<img width="1154" alt="cover images" src="https://user-images.githubusercontent.com/101295892/162339279-31a59891-296e-4b32-95ee-1e64639fe066.PNG">
+For the clear poycarbonate or acrylic peice, inculded is a 3D Printable template. Simply print, align to your plexiglass sheet, and cut and dril out the holes by hand with a dremel and drill
 
-FILES COMING SOON
 
 ## Tactical Radio Pouch
 
