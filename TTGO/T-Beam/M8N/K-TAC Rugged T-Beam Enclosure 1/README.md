@@ -28,7 +28,7 @@ tutorial and showcase video coming soon!
 4. THIS CAN CAUSE PERMANENT DAMAGE TO YOUR T-BEAM! Steps such as the rewiring of the USB or desoldering the battery tray can damage your T-Beam if done improperly. It is highly recommended to gain experience with other projects first before proceeding with this one
 
 ## 3D Printing Info
-Inculded are 2 versions, one for FDM and one for SLA. The only difference is how the screws mount, for the FDM version the holes ar elarger to accomidate threaded heat set inserts, whereas the SLA version has 3 mm holes intended to be tapped straight into the resin print itself. For full rugged perofmance, FDM pritning is favored over resin printing, hwoever for more moderate usage resin prints should also work (Indoor, casual hiking, urban enviroemtn, ect.).
+Inculded are 2 versions, one for FDM and one for SLA. The only difference is how the screws mount, for the FDM version the holes ar elarger to accomidate threaded heat set inserts, whereas the SLA version has 3 mm holes intended to be tapped straight into the resin print itself. For the SLA version all the files are identical except the center frame. Ensure you are printing the correct center frame file! For full rugged perofmance, FDM pritning is favored over resin printing, hwoever for more moderate usage resin prints should also work (Indoor, casual hiking, urban enviroemtn, ect.).
 
 FDM Reccomended Settings:
 
