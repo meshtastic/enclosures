@@ -112,9 +112,10 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 ## Non CNC Version
 
-Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed. For the clear acrylic or polycarbonate screen protector however, you will need to cut it out by hand using the included . Note the template must be 3D printed. Paper templates vary in scale by printers and are not reliable enough.
+Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed.
+<img width="1154" alt="cover images" src="https://user-images.githubusercontent.com/101295892/162339279-31a59891-296e-4b32-95ee-1e64639fe066.PNG">
+For the clear poycarbonate or acrylic peice, inculded is a 3D Printable template. Simply print, align to your plexiglass sheet, and cut and dril out the holes by hand with a dremel and drill
 
-FILES COMING SOON
 
 ## Tactical Radio Pouch
 
