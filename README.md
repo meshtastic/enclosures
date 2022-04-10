@@ -15,7 +15,8 @@ Upload respective files following the repo organization structure (may change in
 
 - Compatible Boards (TTGO T-Beam, Rak, ect.)
   - Specific Board Models (Example T-Beam m8n or m6)
-      -Respective enclosures files and readmes
+  
+  -Respective enclosures files and readmes
 
 We encourage you to add a read me with more details regarding the enclosure (Instructions and additional resources would be a big plus!), ensure to fill out the Universal Spec Sheet following the template below and add it to the bottom of the readme. This allows for quick and easy specs for the user to determine which enclosure suits their need quickly.
 
