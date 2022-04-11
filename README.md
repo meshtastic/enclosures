@@ -51,6 +51,11 @@ Compatible GPS Antenna Size:  (Ex.12mm, 15mm, 18mm, and 25mm)
 
 Compatible Battery: (Ex. 18650, 21700)
 
+Miscellaneous notes:
+
+
+
+
 # license
 By submitting to this repository, you confirm that you have the full rights to the artwork you are submitting and are agreeing to releasing the artwork under the Creative Commons license.
 
