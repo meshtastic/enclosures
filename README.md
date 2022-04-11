@@ -33,6 +33,8 @@ Size: (mm)
 
 Weight: (grams)
 
+Type: (Portable or Fixed)
+
 Base Material:
 
 Cost Estimate:
@@ -43,7 +45,9 @@ Water Resistant: (Yes or No)
 
 UV Resistant: (Yes or No)
 
-Larger GPS antenna compatible: (Yes or No)
+Compatible Antenna Mount: (Ex.SMA, N Connector)
+
+Compatible GPS Antenna Size:  (Ex.12mm, 15mm, 18mm, and 25mm)
 
 Compatible Battery: (Ex. 18650, 21700)
 
