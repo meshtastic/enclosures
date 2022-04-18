@@ -1,7 +1,3 @@
-[![CLA assistant](https://cla-assistant.io/readme/badge/meshtastic/enclosures)](https://cla-assistant.io/meshtastic/enclosures)
-
-# enclosures
-Enclosures for Meshtastic devices.
 
 # license
 By submitting to this repository, you confirm that you have the full rights to the artwork you are submitting and are agreeing to releasing the artwork under the Creative Commons license.
