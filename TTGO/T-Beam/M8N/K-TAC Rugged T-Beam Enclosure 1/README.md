@@ -123,3 +123,34 @@ Coming Soon!
 
 Patterns, sewing details, and instructions coming soon!
 
+# Universal Spec Sheet
+
+(K-Tac Rugged T-Beam Enclosure 1)
+
+Compatible Board: T-Beam M8N
+
+Size: NA
+
+Weight: NA
+
+Type: Portable
+
+Base Material: Carbon Fiber/Polycarbonate
+
+Cost Estimate: ~$40
+
+Build Level: Expert
+
+Water Resistant: Yes
+
+UV Resistant: Yes
+
+Compatible Antenna Mount: SMA
+
+Compatible GPS Antenna Size:  25mm
+
+Compatible Battery: 18650,21700
+
+Miscellaneous notes: NA
+
+
