@@ -123,7 +123,7 @@ Coming Soon!
 
 Patterns, sewing details, and instructions coming soon!
 
-# Universal Spec Sheet Template
+# Universal Spec Sheet
 
 (K-Tac Rugged T-Beam Enclosure 1)
 
