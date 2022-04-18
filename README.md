@@ -14,8 +14,8 @@ https://www.printables.com/search/all?q=meshtastic
 Upload respective files following the repo organization structure (may change in future updates)
 
 -Compatible Boards (TTGO T-Beam, Rak, ect.)
---Specific Board Models (Example T-Beam m8n or m6)
----Respective enclosures files and readmes
+-Specific Board Models (Example T-Beam m8n or m6)
+-Respective enclosures files and readmes
 
 After finding the respective board your enclosure is compatible with, create a folder in the board model folder with the title as your enclosure name. Post the related files in that folder. We encourage you to add a read me with more details regarding the enclosure (Instructions and additional resources would be a big plus!) along with a picture at the top so it can be seen easily. Ensure to fill out the Universal Spec Sheet following the template below and add it to the bottom of the readme. This allows for quick and easy specs for different users to determine which enclosure suits their need quickly.
 
