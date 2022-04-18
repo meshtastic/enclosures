@@ -2,12 +2,12 @@
 
 ![K-TAC RTE 1 wireframe](https://user-images.githubusercontent.com/101295892/159145646-d8206180-4656-4461-9e1e-7b50228de056.png)
 
-K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is designed to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially available waterproof components to offer a weatherproof and completely sealed body, protecting the electronics from the elements. Though not a beginner friendly project, RTE-1 is relatively a simple construction. The body is 3D printed with cnc cutout "armor" panels for added protection and strength. However the CNC parts are not necessary and can be substituted with printed parts. The CNCed parts are relatively simple, with a drill press and good saw (and skill) it can be cut out by hand
+K-TAK RTE-1 (Ruggedized T-Beam Enclosure 1) is an open sourced ruggedized tactical enclosure for the t beam m8n. RTE-1 is designed to help bring meshtastic to the roughest outdoor conditions in a small man portable package. RTE-1 was designed around a large battery compartment ensuring space for a high capacity battery; this will allow days of continuous operation on a single charge. It also utilizes commercially available waterproof components to offer a weatherproof and completely sealed body, protecting the electronics from the elements. Though not a beginner friendly project, RTE-1 is relatively a simple construction. The body is 3D printed with cnc cutout "armor" panels for added protection and strength. However the CNC parts are not necessary and can be substituted with printed parts. The CNC parts are relatively simple, with a drill press and good saw (and skill) it can be cut out by hand
 
 
 
 
-Deisgned & Devleoped under the K-TAC ecosystem by Canine Rocket Technologies
+Designed & Developed under the K-TAC ecosystem by Canine Rocket Technologies
 
 ## Video
 
@@ -19,7 +19,7 @@ tutorial and showcase video coming soon!
 ## IMPORTANT NOTICE
 
 
-1. This is not a beginner friendly enclosure! If this is your first enclosure, we highly do not recommend if you would like to check out more beginner friendly enclosures at: https://github.com/meshtastic/enclosures This project requires a intermediate knowledge in electronics, intermediate skill level in soldering, 3D printing, and CNC machining
+1. This is not a beginner friendly enclosure! If this is your first enclosure, we highly do not recommend tackling this project. For more beginner friendly enclosures check them out at: https://github.com/meshtastic/enclosures This project requires a intermediate knowledge in electronics, intermediate skill level in soldering, 3D printing, and CNC machining
 
 2. Do not proceed with this project until you have gotten Meshtastic working on the t-beam first! This enclosure requires a lot of semi-permanent modifications that will make debugging very tricky.
 
@@ -28,15 +28,15 @@ tutorial and showcase video coming soon!
 4. THIS CAN CAUSE PERMANENT DAMAGE TO YOUR T-BEAM! Steps such as the rewiring of the USB or desoldering the battery tray can damage your T-Beam if done improperly. It is highly recommended to gain experience with other projects first before proceeding with this one
 
 ## 3D Printing Info
-Inculded are 2 versions, one for FDM and one for SLA. The only difference is how the screws mount, for the FDM version the holes ar elarger to accomidate threaded heat set inserts, whereas the SLA version has 3 mm holes intended to be tapped straight into the resin print itself. For the SLA version all the files are identical except the center frame. Ensure you are printing the correct center frame file! For full rugged perofmance, FDM pritning is favored over resin printing, hwoever for more moderate usage resin prints should also work (Indoor, casual hiking, urban enviroemtn, ect.).
+Included are 2 versions, one for FDM and one for SLA. The only difference is how the screws mount, for the FDM version the holes are larger to accommodate threaded heat set inserts, whereas the SLA version has 3 mm holes intended to be tapped straight into the resin print itself. For the SLA version all the files are identical except the center frame. Ensure you are printing the correct center frame file! For full rugged performance, FDM printing is favored over resin printing, however for more moderate usage resin prints should also work (Indoor, casual hiking, urban environment, ect.).
 
-FDM Reccomended Settings:
+FDM Recommended Settings:
 
 100% infill
 
-0.2 mm layer height minimun
+0.2 mm layer height minimum
 
-PETG, Polycarboante, or ABS
+PETG, Polycarbonate, or ABS
 
 ## Tools
 
@@ -58,7 +58,7 @@ M3 Taps (Only needed for resin print version)
 
 1x OLED Display
 
-2x 12 mm stainlee steel waterproof push button (generic, make sure it's momentary)
+2x 12 mm stainless steel waterproof push button (generic, make sure it's momentary)
 
 1x Upgraded Antenna (stock antenna could work but not recommended)
 
@@ -114,7 +114,7 @@ Carbon fiber/Polycarbonate 3D printer filament (PETG or ABS could also work)
 
 Don't own a CNC? No worries! We designed a version that utilizes the armored elements to be simply printed.
 <img width="1154" alt="cover images" src="https://user-images.githubusercontent.com/101295892/162339279-31a59891-296e-4b32-95ee-1e64639fe066.PNG">
-For the clear poycarbonate or acrylic peice, inculded is a 3D Printable template. Simply print, align to your plexiglass sheet, and cut and dril out the holes by hand with a dremel and drill
+For the clear polycarbonate or acrylic piece, included is a 3D Printable template. Simply print, align to your plexiglass sheet, and cut and drill out the holes by hand with a dremel and drill
 
 
 ## Tactical Radio Pouch
@@ -123,32 +123,3 @@ Coming Soon!
 
 Patterns, sewing details, and instructions coming soon!
 
-# Universal Spec Sheet
-
-(K-Tac Rugged T-Beam Enclosure 1)
-
-Compatible Board: T-Beam M8N
-
-Size: NA
-
-Weight: NA
-
-Type: Portable
-
-Base Material: Carbon Fiber/Polycarbonate
-
-Cost Estimate: ~$40
-
-Build Level: Expert
-
-Water Resistant: Yes
-
-UV Resistant: Yes
-
-Compatible Antenna Mount: SMA
-
-Compatible GPS Antenna Size:  25mm
-
-Compatible Battery: 18650,21700
-
-Miscellaneous notes: NA
