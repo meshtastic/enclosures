@@ -1,5 +1,5 @@
 # Antenna Reference Model
-3D files references of common antennas for designing enclosures
+3D files references of common antennas
 
 
 ## Licensing
