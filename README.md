@@ -1,5 +1,5 @@
 # Meshtastic Enclosures
-This section Enclosures for Meshtastic devices.
+This section is for all information and files regarding Enclosures for Meshtastic devices. Both files regarding specific enclosure designs and reference models (Antennas, board mock ups, other hardware, etc.) are organized into their respective categories categorized by hardware.
 
 NOTE:
 
