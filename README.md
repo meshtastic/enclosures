@@ -1,5 +1,5 @@
 # Meshtastic Enclosures
-This section is for all information and files regarding Enclosures for Meshtastic devices. Both files regarding specific enclosure designs and reference models (Antennas, board mock ups, other hardware, etc.) are organized into their respective categories by hardware.
+This section is for all information and files regarding Hardware Enclosures for Meshtastic devices. Both files regarding specific enclosure designs and reference models (Antennas, board mock ups, other hardware, etc.) are organized into their respective categories by compatible hardware boards. To learn more about what board options are compatible with Meshtastic check out the hardware page: https://meshtastic.org/docs/hardware
 
 NOTE:
 
