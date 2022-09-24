@@ -1,13 +1,21 @@
 # Meshtastic Enclosures
-This section is for all information and files regarding Hardware Enclosures for Meshtastic devices. Both files regarding specific enclosure designs and reference models (Antennas, board mock ups, other hardware, etc.) are organized into their respective categories by compatible hardware boards. To learn more about what board options are compatible with Meshtastic check out the hardware page: https://meshtastic.org/docs/hardware
+This section is for all information and files regarding Hardware Enclosures for Meshtastic devices. This is a file hub to help designers and Meshtastic users alike, with files and docuemtnation regarding enclosure for users, and technical CAD references of compatible boards to assist designers develop more enclosures! The files are organized into their respective categories by compatible hardware boards. To learn more about what board options are compatible with Meshtastic check out the hardware page: https://meshtastic.org/docs/hardware
 
-NOTE:
+# NOTE FOR USERS:
 
 The majority of enclosure designs are up on respective 3d printing websites such as thingiverse, printables, ect.
 
 https://www.thingiverse.com/search?q=meshtastic&page=1&type=things&sort=relevant
 
 https://www.printables.com/search/all?q=meshtastic
+
+Happy Printing!
+
+
+# NOTE FOR HARDWARE DEVELOPERS:
+If you are planning to contribute CAD models and documentation for enclosure designs and reference models of components alike (Antennas, hardware, etc.) please read the following information. If the design uses elements from other designers, don't forget to credit them in the READ.ME
+
+Thank you for your contribution!
 
 # Instructions for uploading
 
