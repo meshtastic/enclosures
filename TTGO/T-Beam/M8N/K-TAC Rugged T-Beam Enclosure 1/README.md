@@ -137,7 +137,7 @@ Type: Portable
 
 Base Material: Carbon Fiber/Polycarbonate
 
-Cost Estimate: ~$40
+Cost Estimate: ~$100 t0 150
 
 Build Level: Expert
 
