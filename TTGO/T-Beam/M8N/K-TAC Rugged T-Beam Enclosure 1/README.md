@@ -117,11 +117,10 @@ Don't own a CNC? No worries! We designed a version that utilizes the armored ele
 For the clear polycarbonate or acrylic piece, included is a 3D Printable template. Simply print, align to your plexiglass sheet, and cut and drill out the holes by hand with a dremel and drill
 
 
-## Tactical Radio Pouch
+## Assembly Tutorial Video
 
-Coming Soon!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/so7PC6OJdbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Patterns, sewing details, and instructions coming soon!
 
 # Universal Spec Sheet
 
