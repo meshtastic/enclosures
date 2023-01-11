@@ -1,5 +1,5 @@
 # Antenna Reference Model
-3D files references of common antennas to help with designing your enclosures! This category is divided by brand names.
+3D files references of common antennas, solar panels, and other components the community commonly uses to help with designing your enclosures! This category is divided by brand names.
 
 
 ## Licensing
