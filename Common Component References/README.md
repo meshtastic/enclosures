@@ -1,5 +1,5 @@
 # Common Component Reference Models
-3D files references of common antennas, solar panels, and other components the community commonly uses to help with designing your enclosures! This category is divided by brand names.
+3D reference files of common antennas, solar panels, and other components commonly used by the community in their enclosure designs.
 
 
 ## Licensing
