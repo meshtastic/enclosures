@@ -1,9 +1,12 @@
 
 # Heltec Reference Model
 
-This is a reference model of the Heltec Wireless Tracker LoRa board for you to help design your own enclosures!
+This is a reference model of the Heltec Wireless Tracker V1.1 LoRa board for you to help design your own enclosures!
 
-The .STL file is provided.
+The .STL and .STEP files are provided.
+
+Created by Droidbot on Discord.
+Other designs: https://www.printables.com/@Droidbot_347988
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0) This work is licensed under the Creative Commons Attribution 4.0 International License.
 
