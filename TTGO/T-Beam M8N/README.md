@@ -1,9 +1,9 @@
 
-# TTGO T-Beam NEO-M8N and NEO-6M Reference Models
+# TTGO T-Beam NEO-M8N Reference Models
 
-These are reference models of the TTGO T-Beam NEO-M8N and NEO-6M for you to help design your own enclosures!
+These are reference models of the TTGO T-Beam NEO-M8N for you to use in helping design your own enclosures!
 
-The .STL files are provided.
+The .STL files and Fusion 360 files are included.
 
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0) This work is licensed under the Creative Commons Attribution 4.0 International License.
@@ -24,7 +24,7 @@ for enclosure design, however it is not intended to serve as a pcb level accurat
 reference
 
 
-## Credits
+## Credits for Fusion 360 Files
 Special thanks to these sub components designed by others:
 
 UFL Connector by: Steven Minichiello
