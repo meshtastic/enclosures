@@ -1,13 +1,13 @@
 # Meshtastic Enclosures
-This section is for all information and files regarding Hardware Enclosures for Meshtastic devices. This is a file hub to help designers and Meshtastic users alike, with files and docuemtnation regarding enclosure for users, and technical CAD references of compatible boards to assist designers develop more enclosures! The files are organized into their respective categories by compatible hardware boards. To learn more about what board options are compatible with Meshtastic check out the hardware page: https://meshtastic.org/docs/hardware
+This section is for all information and files regarding Hardware Enclosures for Meshtastic devices. This is a file hub to help designers and Meshtastic users alike, with files and documentation regarding enclosures for users, and technical CAD references of compatible boards to assist designers develop more enclosures! The files are organized into their respective categories by compatible hardware boards. To learn more about what board options are compatible with Meshtastic, check out the hardware page: https://meshtastic.org/docs/hardware
 
 # NOTE FOR USERS:
 
-The majority of enclosure designs are up on respective 3d printing websites such as thingiverse, printables, ect.
+The majority of enclosure designs are up on respective 3d printing websites such as Thingiverse, Printables, ect.
 
 https://www.thingiverse.com/search?q=meshtastic&page=1&type=things&sort=relevant
 
-https://www.printables.com/search/all?q=meshtastic
+https://www.printables.com/search/models?q=meshtastic
 
 Happy Printing!
 
@@ -61,7 +61,7 @@ Compatible Battery: (Ex. 18650, 21700)
 
 Miscellaneous notes:
 
-# license
+# License
 By submitting to this repository, you confirm that you have the full rights to the artwork you are submitting and are agreeing to releasing the artwork under the Creative Commons license.
 
 Creative Commons Attribution 4.0 International License (CC BY 4.0)
