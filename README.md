@@ -7,7 +7,7 @@ The majority of enclosure designs are up on respective 3d printing websites such
 
 https://www.thingiverse.com/search?q=meshtastic&page=1&type=things&sort=relevant
 
-https://www.printables.com/search/all?q=meshtastic
+https://www.printables.com/search/models?ctx=models&q=meshtastic
 
 Happy Printing!
 
